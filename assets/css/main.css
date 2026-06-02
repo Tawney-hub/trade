@@ -2472,7 +2472,7 @@ html {
 .hero .swiper-button-prev {
   background-color: var(--accent-color) !important;
   filter: brightness(1.25) !important; /* Makes the yellowish color significantly brighter */
-  color: #ffffff !important;
+  color: #000000 !important;
   border: none !important;
   opacity: 1 !important;
 }
